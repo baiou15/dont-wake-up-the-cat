@@ -1,9 +1,3 @@
-
-
-
-
-
-
 {
     "Label": "Velocity-T2",
     "Datapoints": [

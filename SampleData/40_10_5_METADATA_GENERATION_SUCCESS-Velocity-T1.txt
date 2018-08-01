@@ -1,4 +1,3 @@
-
 {
     "Label": "Velocity-T1",
     "Datapoints": [
@@ -4526,11 +4525,7 @@
             "Timestamp": "2018-07-27T03:20:00Z",
             "Maximum": 24.0,
             "Unit": "Count"
-        },]
-}
-{
-    "Label": "Velocity-T1",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-29T07:50:00Z",
             "Maximum": 6.0,
