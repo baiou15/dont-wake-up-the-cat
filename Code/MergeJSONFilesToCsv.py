@@ -14,11 +14,12 @@ for datafile in onlyfiles:
     print('Now working on %s', datafile)
     shortdatafile = datafile[:datafile.find(".")]
     nameparts = shortdatafile.split('-')
+    subnameparts = nameparts[0].split("_")
     columnprefix = ''
     if len(nameparts) > 1:
-        columnprefix = nameparts[len(nameparts)-1] + '-' + nameparts[0].split('_')[0]
+        columnprefix = nameparts[len(nameparts)-1] + '-' + subnameparts[0] + '-' + subnameparts[1] + '-' + subnameparts[2] + '-' + subnameparts[3]
     else:
-        columnprefix = datafile
+        columnprefix = shortdatafile
 
     with open(mypath+datafile) as f:
         data = json.load(f)
@@ -32,7 +33,7 @@ for datafile in onlyfiles:
     for key, value in alldata.items():
         append_count = index - value.count(',')
         alldata[key] = value + (','*append_count)
-    columnnames += columnprefix + '-Maximum,'
+    columnnames += columnprefix + ','
     index = index + 1
     # if (index == 2):
     #     break
