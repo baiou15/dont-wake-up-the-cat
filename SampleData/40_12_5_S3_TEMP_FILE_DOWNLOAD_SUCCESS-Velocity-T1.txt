@@ -10,7 +10,7 @@
             "Timestamp": "2018-07-05T08:05:00Z",
             "Maximum": 6.0,
             "Unit": "Count"
-        },,
+        },
         {
             "Timestamp": "2018-07-08T08:05:00Z",
             "Maximum": 6.0,

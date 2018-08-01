@@ -1440,12 +1440,7 @@
             "Timestamp": "2018-07-01T23:05:00Z",
             "Maximum": 1.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-02T17:20:00Z",
             "Maximum": 0.0,
@@ -2885,12 +2880,7 @@
             "Timestamp": "2018-07-02T15:35:00Z",
             "Maximum": 3.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-03T17:30:00Z",
             "Maximum": 0.0,
@@ -4330,12 +4320,7 @@
             "Timestamp": "2018-07-03T22:15:00Z",
             "Maximum": 1.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-04T13:15:00Z",
             "Maximum": 7.0,
@@ -5775,12 +5760,7 @@
             "Timestamp": "2018-07-04T14:10:00Z",
             "Maximum": 6.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-05T09:00:00Z",
             "Maximum": 5.0,
@@ -7220,12 +7200,7 @@
             "Timestamp": "2018-07-05T06:05:00Z",
             "Maximum": 28.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-06T15:40:00Z",
             "Maximum": 14.0,
@@ -8665,12 +8640,7 @@
             "Timestamp": "2018-07-06T14:30:00Z",
             "Maximum": 14.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-07T15:50:00Z",
             "Maximum": 97.0,
@@ -10110,12 +10080,7 @@
             "Timestamp": "2018-07-07T21:10:00Z",
             "Maximum": 0.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-08T11:35:00Z",
             "Maximum": 0.0,
@@ -11555,12 +11520,7 @@
             "Timestamp": "2018-07-08T13:40:00Z",
             "Maximum": 1.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-09T11:45:00Z",
             "Maximum": 0.0,
@@ -13000,12 +12960,7 @@
             "Timestamp": "2018-07-09T21:30:00Z",
             "Maximum": 37.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-10T07:30:00Z",
             "Maximum": 39.0,
@@ -14445,12 +14400,7 @@
             "Timestamp": "2018-07-10T13:25:00Z",
             "Maximum": 1.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-11T03:15:00Z",
             "Maximum": 67.0,
@@ -15890,12 +15840,7 @@
             "Timestamp": "2018-07-11T20:40:00Z",
             "Maximum": 0.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-12T03:25:00Z",
             "Maximum": 98.0,
@@ -17335,12 +17280,7 @@
             "Timestamp": "2018-07-12T12:35:00Z",
             "Maximum": 1.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-13T18:55:00Z",
             "Maximum": 0.0,
@@ -18780,12 +18720,7 @@
             "Timestamp": "2018-07-13T20:25:00Z",
             "Maximum": 0.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-14T14:40:00Z",
             "Maximum": 0.0,
@@ -20225,12 +20160,7 @@
             "Timestamp": "2018-07-14T12:55:00Z",
             "Maximum": 5.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-15T01:35:00Z",
             "Maximum": 6.0,
@@ -21670,12 +21600,7 @@
             "Timestamp": "2018-07-15T19:35:00Z",
             "Maximum": 38.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-16T01:45:00Z",
             "Maximum": 13.0,
@@ -23115,12 +23040,7 @@
             "Timestamp": "2018-07-16T11:30:00Z",
             "Maximum": 6.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-17T17:15:00Z",
             "Maximum": 20.0,
@@ -24560,12 +24480,7 @@
             "Timestamp": "2018-07-17T03:25:00Z",
             "Maximum": 18.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-18T17:25:00Z",
             "Maximum": 97.0,
@@ -26005,12 +25920,7 @@
             "Timestamp": "2018-07-18T10:40:00Z",
             "Maximum": 22.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-19T13:10:00Z",
             "Maximum": 5.0,
@@ -27450,12 +27360,7 @@
             "Timestamp": "2018-07-19T18:30:00Z",
             "Maximum": 11.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-20T08:55:00Z",
             "Maximum": 12.0,
@@ -28895,12 +28800,7 @@
             "Timestamp": "2018-07-20T10:25:00Z",
             "Maximum": 8.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-21T04:40:00Z",
             "Maximum": 0.0,
@@ -30340,12 +30240,7 @@
             "Timestamp": "2018-07-21T18:50:00Z",
             "Maximum": 0.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-22T04:50:00Z",
             "Maximum": 35.0,
@@ -31785,12 +31680,7 @@
             "Timestamp": "2018-07-22T09:35:00Z",
             "Maximum": 15.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-23T00:35:00Z",
             "Maximum": 0.0,
@@ -33230,12 +33120,7 @@
             "Timestamp": "2018-07-23T18:00:00Z",
             "Maximum": 21.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-24T07:15:00Z",
             "Maximum": 53.0,
@@ -34675,12 +34560,7 @@
             "Timestamp": "2018-07-24T09:55:00Z",
             "Maximum": 1.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-25T07:25:00Z",
             "Maximum": 77.0,
@@ -36120,12 +36000,7 @@
             "Timestamp": "2018-07-25T18:20:00Z",
             "Maximum": 36.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-26T03:10:00Z",
             "Maximum": 32.0,
@@ -37565,12 +37440,7 @@
             "Timestamp": "2018-07-26T23:15:00Z",
             "Maximum": 5.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-27T23:05:00Z",
             "Maximum": 1.0,
@@ -39010,12 +38880,7 @@
             "Timestamp": "2018-07-27T16:55:00Z",
             "Maximum": 11.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-28T18:50:00Z",
             "Maximum": 0.0,
@@ -40455,12 +40320,7 @@
             "Timestamp": "2018-07-28T08:50:00Z",
             "Maximum": 3.0,
             "Unit": "Percent"
-        }
-    ]
-}
-{
-    "Label": "CPUUtilization",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-29T14:35:00Z",
             "Maximum": 1.0,

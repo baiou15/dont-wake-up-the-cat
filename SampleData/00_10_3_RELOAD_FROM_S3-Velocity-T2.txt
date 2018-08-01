@@ -25,22 +25,7 @@
             "Timestamp": "2018-07-05T06:55:00Z",
             "Maximum": 12.0,
             "Unit": "Count"
-        }
-    ]
-}
-
-
-
-
-
-
-
-
-
-
-{
-    "Label": "Velocity-T2",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-16T20:35:00Z",
             "Maximum": 6.0,
@@ -50,12 +35,7 @@
             "Timestamp": "2018-07-16T20:30:00Z",
             "Maximum": 6.0,
             "Unit": "Count"
-        }
-    ]
-}
-{
-    "Label": "Velocity-T2",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-17T02:15:00Z",
             "Maximum": 6.0,
@@ -70,12 +50,7 @@
             "Timestamp": "2018-07-17T14:45:00Z",
             "Maximum": 6.0,
             "Unit": "Count"
-        }
-    ]
-}
-{
-    "Label": "Velocity-T2",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-18T06:20:00Z",
             "Maximum": 6.0,
@@ -90,18 +65,7 @@
             "Timestamp": "2018-07-18T18:10:00Z",
             "Maximum": 36.0,
             "Unit": "Count"
-        }
-    ]
-}
-
-
-
-
-
-
-{
-    "Label": "Velocity-T2",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-25T07:20:00Z",
             "Maximum": 6.0,

@@ -3,13 +3,15 @@ import csv
 from os import listdir
 from os.path import isfile, join
 
-mypath='/Users/wangy/git/Hackathon-1/SampleData/';
+# mypath='/Users/wangy/git/Hackathon-1/SampleData/';
+mypath = '/Users/baio/dev/projects/dont-wake-up-the-cat/SampleData/'
 onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 
 alldata = {}
 index = 0
 columnnames = 'Metrics-Timestamp,'
 for datafile in onlyfiles:
+    print('Now working on %s', datafile)
     shortdatafile = datafile[:datafile.find(".")]
     nameparts = shortdatafile.split('-')
     columnprefix = ''
@@ -38,7 +40,7 @@ for datafile in onlyfiles:
 
 #alldata will hold all the data
 #columnnames will hold the column name list
-fout = "/Users/wangy/git/Hackathon-1/result.csv"
+fout = "/Users/baio/dev/projects/dont-wake-up-the-cat/result.csv"
 fo = open(fout, "w")
 
 fo.write(columnnames + "\n");

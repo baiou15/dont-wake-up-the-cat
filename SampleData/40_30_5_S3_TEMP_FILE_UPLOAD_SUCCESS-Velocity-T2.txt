@@ -1690,13 +1690,7 @@
             "Timestamp": "2018-07-12T04:50:00Z",
             "Maximum": 792.0,
             "Unit": "Count"
-        }
-    ]
-}
-
-{
-    "Label": "Velocity-T2",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-14T07:25:00Z",
             "Maximum": 1980.0,
@@ -2461,12 +2455,7 @@
             "Timestamp": "2018-07-18T07:20:00Z",
             "Maximum": 2406.0,
             "Unit": "Count"
-        }
-    ]
-}
-{
-    "Label": "Velocity-T2",
-    "Datapoints": [
+        },
         {
             "Timestamp": "2018-07-19T07:10:00Z",
             "Maximum": 228.0,
