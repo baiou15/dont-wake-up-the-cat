@@ -1,0 +1,67 @@
+---
+dev:
+  aws_region: us-east-1
+  apigateway_enabled: false
+  s3_bucket: eabdev-panto
+  timeout_seconds: 300
+  memory_size: 128
+  manage_roles: false
+  keep_warm: false
+  profile_name: eabdev
+  lambda_description: Batch Prediction Creator
+  role_name: panto-infrastructure-monitoring-dev-us-east-1-lambda-role
+  role_arn: arn:aws:iam::496491179578:role/panto-infrastructure-monitoring-dev-us-east-1-lambda-role
+  runtime: python3.6
+  cloudwatch_log_level: DEBUG
+  events:
+    - function: BatchPredictionCreator.create_batch_prediction
+      expression: rate(30 minutes)
+  vpc_config:
+    SubnetIds:
+      - subnet-b40f7ffc
+      - subnet-9a11a1c0
+    SecurityGroupIds:
+      - sg-3055aa46
+      - sg-f47de187
+      - sg-9196f7e7
+  aws_environment_variables:
+    db_name: panto
+    db_host: panto-db-dev.ctwppe9uq1vi.us-east-1.rds.amazonaws.com
+    # db_pass: Set remotely in the AWS and encrypted through AWS console
+    db_user: panto
+    ec2_id: i-0d87f6668ae5bef10
+  tags:
+    Product: panto
+
+qa:
+  aws_region: us-east-1
+  apigateway_enabled: false
+  s3_bucket: eabdev-panto
+  timeout_seconds: 300
+  memory_size: 128
+  manage_roles: false
+  keep_warm: false
+  profile_name: eabdev
+  lambda_description: Panto Cluster Import Restart Service
+  role_name: panto-infrastructure-monitoring-dev-us-east-1-lambda-role
+  role_arn: arn:aws:iam::496491179578:role/panto-infrastructure-monitoring-dev-us-east-1-lambda-role
+  runtime: python3.6
+  cloudwatch_log_level: DEBUG
+  events:
+    - function: BatchPredictionCreator.create_batch_prediction
+      expression: rate(30 minutes)
+  vpc_config:
+    SubnetIds:
+      - subnet-b40f7ffc
+      - subnet-9a11a1c0
+    SecurityGroupIds:
+      - sg-3055aa46
+      - sg-f47de187
+      - sg-22430a54
+  aws_environment_variables:
+    db_name: panto
+    db_host: pantoapp-db-qa.ctwppe9uq1vi.us-east-1.rds.amazonaws.com
+    db_user: panto
+    ec2_id: i-09896cf96852c2c10
+  tags:
+    Product: panto
