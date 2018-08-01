@@ -1,0 +1,2205 @@
+{
+    "Label": "Backlog",
+    "Datapoints": [
+        {
+            "Timestamp": "2018-07-02T06:10:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-02T14:40:00Z",
+            "Maximum": 6.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-02T01:50:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-02T04:40:00Z",
+            "Maximum": 29.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-02T02:05:00Z",
+            "Maximum": 24.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-02T06:05:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-02T01:35:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-02T03:30:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-03T04:25:00Z",
+            "Maximum": 8.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-03T06:20:00Z",
+            "Maximum": 42.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-03T05:20:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-03T06:30:00Z",
+            "Maximum": 4.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-03T02:20:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-03T06:45:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-03T02:55:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-03T02:15:00Z",
+            "Maximum": 11.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-03T03:30:00Z",
+            "Maximum": 8.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-03T09:15:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-03T07:30:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-04T02:10:00Z",
+            "Maximum": 13.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-04T12:20:00Z",
+            "Maximum": 19.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-04T01:25:00Z",
+            "Maximum": 5.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-04T05:15:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-04T06:10:00Z",
+            "Maximum": 7.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-04T02:20:00Z",
+            "Maximum": 147.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-04T02:55:00Z",
+            "Maximum": 4.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-04T06:20:00Z",
+            "Maximum": 31.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-04T08:25:00Z",
+            "Maximum": 17.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-04T09:00:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-04T06:40:00Z",
+            "Maximum": 5.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-04T02:05:00Z",
+            "Maximum": 8.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-04T04:55:00Z",
+            "Maximum": 33.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-04T02:15:00Z",
+            "Maximum": 46.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-04T06:15:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-04T00:30:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-04T02:00:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-04T06:25:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-05T06:10:00Z",
+            "Maximum": 30.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-05T06:30:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-05T08:25:00Z",
+            "Maximum": 5.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-05T05:10:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-05T06:05:00Z",
+            "Maximum": 9.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-05T07:15:00Z",
+            "Maximum": 7.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-05T05:30:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-05T09:20:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-05T05:40:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-05T07:10:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-05T05:15:00Z",
+            "Maximum": 12.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-05T03:20:00Z",
+            "Maximum": 5.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-05T02:45:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-05T06:35:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-06T03:15:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-06T04:25:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-06T08:15:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-06T06:30:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-06T08:25:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-06T02:15:00Z",
+            "Maximum": 66.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-06T04:20:00Z",
+            "Maximum": 59.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-06T06:15:00Z",
+            "Maximum": 30.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-06T04:55:00Z",
+            "Maximum": 6.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-06T06:45:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-06T03:30:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-06T02:10:00Z",
+            "Maximum": 59.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-06T02:20:00Z",
+            "Maximum": 63.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-07T02:10:00Z",
+            "Maximum": 33.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-07T02:45:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-07T02:05:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-07T03:20:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-07T05:30:00Z",
+            "Maximum": 4.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-07T07:25:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-07T06:45:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-07T10:05:00Z",
+            "Maximum": 14.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-07T03:15:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-07T03:10:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-07T05:05:00Z",
+            "Maximum": 76.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-08T06:50:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-08T05:30:00Z",
+            "Maximum": 4.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-08T07:25:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-08T07:00:00Z",
+            "Maximum": 6.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-08T07:45:00Z",
+            "Maximum": 9.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-08T04:30:00Z",
+            "Maximum": 42.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-08T06:00:00Z",
+            "Maximum": 16.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-08T02:45:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-08T06:35:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-08T01:00:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-08T08:15:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-08T04:35:00Z",
+            "Maximum": 30.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-08T03:15:00Z",
+            "Maximum": 9.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-08T00:10:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-09T08:50:00Z",
+            "Maximum": 11.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-09T02:05:00Z",
+            "Maximum": 5.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-09T05:15:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-09T07:10:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-09T07:20:00Z",
+            "Maximum": 7.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-09T19:00:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-09T06:10:00Z",
+            "Maximum": 13.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-09T20:50:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-09T05:30:00Z",
+            "Maximum": 84.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-10T00:15:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-10T06:45:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-10T07:55:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-10T04:15:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-10T06:10:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-10T05:55:00Z",
+            "Maximum": 14.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-10T02:05:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-10T04:45:00Z",
+            "Maximum": 11.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-10T04:30:00Z",
+            "Maximum": 5.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-10T06:25:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-10T03:10:00Z",
+            "Maximum": 10.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-10T05:05:00Z",
+            "Maximum": 5.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-11T02:20:00Z",
+            "Maximum": 5.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-11T04:25:00Z",
+            "Maximum": 15.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-11T06:20:00Z",
+            "Maximum": 20.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-11T01:50:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-11T06:55:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-11T04:35:00Z",
+            "Maximum": 26.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-11T06:30:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-11T04:30:00Z",
+            "Maximum": 146.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-11T02:10:00Z",
+            "Maximum": 21.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-11T08:30:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-12T04:25:00Z",
+            "Maximum": 19.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-12T06:15:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-12T06:30:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-12T04:30:00Z",
+            "Maximum": 23.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-12T02:15:00Z",
+            "Maximum": 8.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-12T02:10:00Z",
+            "Maximum": 4.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-12T02:45:00Z",
+            "Maximum": 10.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-12T06:35:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-12T06:10:00Z",
+            "Maximum": 12.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-12T08:40:00Z",
+            "Maximum": 5.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-13T02:15:00Z",
+            "Maximum": 46.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-13T08:35:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-13T07:15:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-13T23:10:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-13T06:15:00Z",
+            "Maximum": 4.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-13T08:45:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-13T02:45:00Z",
+            "Maximum": 6.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-13T03:20:00Z",
+            "Maximum": 20.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-13T02:00:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-13T23:40:00Z",
+            "Maximum": 7.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-13T08:40:00Z",
+            "Maximum": 8.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-13T02:10:00Z",
+            "Maximum": 11.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-13T08:05:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-13T06:10:00Z",
+            "Maximum": 9.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-13T23:00:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-13T05:45:00Z",
+            "Maximum": 9.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-13T07:40:00Z",
+            "Maximum": 6.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-13T08:15:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-14T05:30:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-14T02:15:00Z",
+            "Maximum": 29.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-14T06:05:00Z",
+            "Maximum": 20.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-14T00:30:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-14T04:30:00Z",
+            "Maximum": 10.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-14T00:15:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-14T06:35:00Z",
+            "Maximum": 12.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-14T00:50:00Z",
+            "Maximum": 4.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-14T05:15:00Z",
+            "Maximum": 93.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-14T02:20:00Z",
+            "Maximum": 9.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-14T03:15:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-14T06:30:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-15T07:00:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-15T08:15:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-15T05:00:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-15T04:20:00Z",
+            "Maximum": 73.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-15T03:20:00Z",
+            "Maximum": 5.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-15T00:05:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-15T06:30:00Z",
+            "Maximum": 5.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-15T06:45:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-15T07:25:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-16T05:15:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-16T07:45:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-16T04:50:00Z",
+            "Maximum": 10.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-16T23:50:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-16T18:15:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-16T05:45:00Z",
+            "Maximum": 10.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-16T06:55:00Z",
+            "Maximum": 4.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-16T08:50:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-16T02:40:00Z",
+            "Maximum": 45.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-16T21:05:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-16T18:10:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-16T18:30:00Z",
+            "Maximum": 10.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-16T11:25:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-17T02:20:00Z",
+            "Maximum": 38.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-17T02:55:00Z",
+            "Maximum": 4.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-17T06:55:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-17T07:30:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-17T06:10:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-17T23:00:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-17T15:30:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-17T06:30:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-17T02:15:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-17T04:20:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-17T06:15:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-17T04:30:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-17T06:25:00Z",
+            "Maximum": 4.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-17T08:20:00Z",
+            "Maximum": 10.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-17T03:10:00Z",
+            "Maximum": 4.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-17T08:30:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-17T02:45:00Z",
+            "Maximum": 5.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-17T06:35:00Z",
+            "Maximum": 7.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-18T06:20:00Z",
+            "Maximum": 93.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-18T06:55:00Z",
+            "Maximum": 5.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-18T03:05:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-18T15:10:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-18T02:40:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-18T03:15:00Z",
+            "Maximum": 8.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-18T04:45:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-18T06:40:00Z",
+            "Maximum": 9.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-18T02:05:00Z",
+            "Maximum": 45.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-18T02:15:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-18T05:05:00Z",
+            "Maximum": 58.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-18T15:15:00Z",
+            "Maximum": 17.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-18T06:15:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-18T10:05:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-18T09:40:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-18T07:00:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-18T06:35:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-18T06:45:00Z",
+            "Maximum": 4.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-18T07:20:00Z",
+            "Maximum": 7.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-18T23:15:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-19T02:05:00Z",
+            "Maximum": 27.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-19T07:10:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-19T06:30:00Z",
+            "Maximum": 5.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-19T14:45:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-19T16:55:00Z",
+            "Maximum": 8.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-19T17:30:00Z",
+            "Maximum": 8.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-19T06:35:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-19T08:45:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-19T15:55:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-19T06:55:00Z",
+            "Maximum": 4.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-20T06:40:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-20T02:10:00Z",
+            "Maximum": 32.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-20T04:05:00Z",
+            "Maximum": 8.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-20T03:00:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-20T06:10:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-20T06:25:00Z",
+            "Maximum": 11.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-20T08:20:00Z",
+            "Maximum": 5.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-20T07:40:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-20T02:45:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-20T04:40:00Z",
+            "Maximum": 22.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-21T06:20:00Z",
+            "Maximum": 9.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-21T01:10:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-21T02:25:00Z",
+            "Maximum": 24.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-21T03:15:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-21T03:20:00Z",
+            "Maximum": 6.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-21T08:25:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-21T05:25:00Z",
+            "Maximum": 40.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-21T03:30:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-21T06:40:00Z",
+            "Maximum": 8.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-22T03:20:00Z",
+            "Maximum": 16.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-22T00:05:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-22T05:50:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-22T06:30:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-22T09:50:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-22T23:50:00Z",
+            "Maximum": 5.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-22T06:50:00Z",
+            "Maximum": 4.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-22T02:20:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-22T12:30:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-22T08:55:00Z",
+            "Maximum": 4.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-23T01:00:00Z",
+            "Maximum": 22.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-23T06:05:00Z",
+            "Maximum": 4.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-23T03:30:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-23T03:25:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-23T07:00:00Z",
+            "Maximum": 8.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-23T02:45:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-23T07:50:00Z",
+            "Maximum": 22.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-23T09:05:00Z",
+            "Maximum": 5.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-23T05:50:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-23T06:30:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-24T20:55:00Z",
+            "Maximum": 8.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-24T21:30:00Z",
+            "Maximum": 12.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-24T03:15:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-24T07:05:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-24T23:00:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-24T06:30:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-24T03:35:00Z",
+            "Maximum": 10.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-24T23:20:00Z",
+            "Maximum": 30.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-24T04:45:00Z",
+            "Maximum": 8.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-24T02:25:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-24T06:15:00Z",
+            "Maximum": 59.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-24T06:50:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-24T08:45:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-24T08:55:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-24T09:30:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-24T05:50:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-24T02:20:00Z",
+            "Maximum": 7.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-24T01:00:00Z",
+            "Maximum": 22.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-24T20:45:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T05:10:00Z",
+            "Maximum": 116.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T09:35:00Z",
+            "Maximum": 1212.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T02:50:00Z",
+            "Maximum": 739.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T07:15:00Z",
+            "Maximum": 3528.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T09:20:00Z",
+            "Maximum": 2178.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T07:45:00Z",
+            "Maximum": 3694.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T09:50:00Z",
+            "Maximum": 878.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T03:20:00Z",
+            "Maximum": 766.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T01:00:00Z",
+            "Maximum": 9.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T05:25:00Z",
+            "Maximum": 448.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T18:25:00Z",
+            "Maximum": 34.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T03:05:00Z",
+            "Maximum": 700.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T07:30:00Z",
+            "Maximum": 3570.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T10:20:00Z",
+            "Maximum": 24.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T01:30:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T02:05:00Z",
+            "Maximum": 113.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T08:00:00Z",
+            "Maximum": 3806.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T08:35:00Z",
+            "Maximum": 4590.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T05:40:00Z",
+            "Maximum": 655.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T21:35:00Z",
+            "Maximum": 6.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T06:15:00Z",
+            "Maximum": 1913.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T02:00:00Z",
+            "Maximum": 57.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T02:35:00Z",
+            "Maximum": 469.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T00:15:00Z",
+            "Maximum": 9.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T08:30:00Z",
+            "Maximum": 4581.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T09:05:00Z",
+            "Maximum": 3411.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T06:10:00Z",
+            "Maximum": 1567.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T06:45:00Z",
+            "Maximum": 3064.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T21:30:00Z",
+            "Maximum": 13.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T09:55:00Z",
+            "Maximum": 483.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T07:35:00Z",
+            "Maximum": 3618.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T12:00:00Z",
+            "Maximum": 33.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T08:45:00Z",
+            "Maximum": 4289.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T08:20:00Z",
+            "Maximum": 4533.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T06:00:00Z",
+            "Maximum": 1043.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T02:45:00Z",
+            "Maximum": 550.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T07:10:00Z",
+            "Maximum": 3489.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T21:20:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T02:30:00Z",
+            "Maximum": 440.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T03:40:00Z",
+            "Maximum": 109.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T11:50:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T09:30:00Z",
+            "Maximum": 1573.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T10:05:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T05:50:00Z",
+            "Maximum": 897.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T21:10:00Z",
+            "Maximum": 6.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T06:25:00Z",
+            "Maximum": 2162.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T07:00:00Z",
+            "Maximum": 3399.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T04:05:00Z",
+            "Maximum": 26.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T20:35:00Z",
+            "Maximum": 26.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T05:15:00Z",
+            "Maximum": 235.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T02:20:00Z",
+            "Maximum": 190.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T02:55:00Z",
+            "Maximum": 746.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T03:30:00Z",
+            "Maximum": 507.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T01:10:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T08:25:00Z",
+            "Maximum": 4670.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T12:50:00Z",
+            "Maximum": 5.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T01:55:00Z",
+            "Maximum": 54.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T21:40:00Z",
+            "Maximum": 5.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T04:00:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T06:05:00Z",
+            "Maximum": 1223.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T03:45:00Z",
+            "Maximum": 38.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T08:10:00Z",
+            "Maximum": 4161.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T04:30:00Z",
+            "Maximum": 30.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T08:55:00Z",
+            "Maximum": 4039.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T02:10:00Z",
+            "Maximum": 161.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T06:35:00Z",
+            "Maximum": 2471.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T11:00:00Z",
+            "Maximum": 7.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T04:15:00Z",
+            "Maximum": 38.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T08:40:00Z",
+            "Maximum": 4365.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T06:20:00Z",
+            "Maximum": 2111.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T10:45:00Z",
+            "Maximum": 17.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T02:40:00Z",
+            "Maximum": 465.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T03:15:00Z",
+            "Maximum": 752.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T09:10:00Z",
+            "Maximum": 2929.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T09:45:00Z",
+            "Maximum": 1024.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T07:25:00Z",
+            "Maximum": 3465.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T05:05:00Z",
+            "Maximum": 153.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T13:55:00Z",
+            "Maximum": 111.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T06:50:00Z",
+            "Maximum": 3167.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T09:40:00Z",
+            "Maximum": 1178.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T03:10:00Z",
+            "Maximum": 687.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T07:55:00Z",
+            "Maximum": 3802.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T07:20:00Z",
+            "Maximum": 3397.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T05:00:00Z",
+            "Maximum": 41.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T05:35:00Z",
+            "Maximum": 585.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T04:35:00Z",
+            "Maximum": 113.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T09:00:00Z",
+            "Maximum": 3617.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T05:45:00Z",
+            "Maximum": 799.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T06:40:00Z",
+            "Maximum": 2678.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T03:25:00Z",
+            "Maximum": 511.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T07:50:00Z",
+            "Maximum": 3768.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T01:05:00Z",
+            "Maximum": 4.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T05:30:00Z",
+            "Maximum": 459.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T22:00:00Z",
+            "Maximum": 11.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T02:15:00Z",
+            "Maximum": 183.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T04:20:00Z",
+            "Maximum": 9.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T11:35:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T12:45:00Z",
+            "Maximum": 9.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T10:25:00Z",
+            "Maximum": 20.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T08:05:00Z",
+            "Maximum": 4043.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T09:15:00Z",
+            "Maximum": 2481.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T10:10:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T06:55:00Z",
+            "Maximum": 3308.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T06:30:00Z",
+            "Maximum": 2189.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T07:05:00Z",
+            "Maximum": 3468.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T07:40:00Z",
+            "Maximum": 3657.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T05:20:00Z",
+            "Maximum": 382.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T05:55:00Z",
+            "Maximum": 993.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T21:15:00Z",
+            "Maximum": 36.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T03:00:00Z",
+            "Maximum": 675.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T03:35:00Z",
+            "Maximum": 466.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T01:50:00Z",
+            "Maximum": 75.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T02:25:00Z",
+            "Maximum": 200.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T18:20:00Z",
+            "Maximum": 34.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T10:00:00Z",
+            "Maximum": 212.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T11:10:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T08:15:00Z",
+            "Maximum": 4339.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T08:50:00Z",
+            "Maximum": 4188.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-25T09:25:00Z",
+            "Maximum": 1976.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-26T06:05:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-26T06:40:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-26T02:10:00Z",
+            "Maximum": 47.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-26T03:25:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-26T03:40:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-26T07:30:00Z",
+            "Maximum": 4.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-26T08:05:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-26T06:20:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-26T06:15:00Z",
+            "Maximum": 7.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-26T08:50:00Z",
+            "Maximum": 14.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-26T09:35:00Z",
+            "Maximum": 4.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-27T08:05:00Z",
+            "Maximum": 12.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-27T06:10:00Z",
+            "Maximum": 32.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-27T03:10:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-27T05:55:00Z",
+            "Maximum": 4.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-27T07:05:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-27T09:40:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-27T06:45:00Z",
+            "Maximum": 10.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-27T00:55:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-27T02:10:00Z",
+            "Maximum": 61.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-28T05:50:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-28T08:55:00Z",
+            "Maximum": 4.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-28T05:30:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-28T06:45:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-28T02:15:00Z",
+            "Maximum": 23.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-28T06:05:00Z",
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-28T06:40:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-29T05:20:00Z",
+            "Maximum": 18.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-29T07:50:00Z",
+            "Maximum": 6.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-29T05:25:00Z",
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-29T06:05:00Z",
+            "Maximum": 5.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-29T06:55:00Z",
+            "Maximum": 4.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2018-07-29T05:15:00Z",
+            "Maximum": 2.0,
+            "Unit": "Count"
+        }
+    ]
+}

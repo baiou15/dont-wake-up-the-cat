@@ -1,0 +1,38 @@
+
+
+
+
+
+
+{
+    "Label": "Velocity-T2",
+    "Datapoints": [
+        {
+            "Timestamp": "2018-07-07T16:10:00Z",
+            "Maximum": 6.0,
+            "Unit": "Count"
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
