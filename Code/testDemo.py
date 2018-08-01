@@ -70,6 +70,7 @@ class demoFunction():
                 commandLine = commandInfo[0]+metric_name+ commandInfo[1] + status + commandInfo[2] +startTime + commandInfo[3] + endTime + commandInfo[4]
                 serviceData = os.popen(commandLine).read()
                 fileName = status + "-" + metric_name
+                print('Now working on %s', fileName)
                 nameparts = fileName.split('-')
                 subnameparts = nameparts[0].split("_")
                 columnprefix = ''
@@ -102,6 +103,7 @@ class demoFunction():
                 commandInfo = commandLines[i]
                 commandLine = commandInfo[1] + instanceId + commandInfo[2] + startTime + commandInfo[3] + endTime + commandInfo[4]
                 columnprefix = instanceName + commandInfo[0]
+                print('Now working on %s', columnprefix)
                 serviceData = os.popen(commandLine).read()
                 data = json.dump(serviceData)
                 datapoints = data['Datapoints']
