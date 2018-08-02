@@ -42,26 +42,28 @@ qa:
   manage_roles: false
   keep_warm: false
   profile_name: eabdev
-  lambda_description: Panto Cluster Import Restart Service
-  role_name: panto-infrastructure-monitoring-dev-us-east-1-lambda-role
-  role_arn: arn:aws:iam::496491179578:role/panto-infrastructure-monitoring-dev-us-east-1-lambda-role
+  lambda_description: Batch Prediction Creator
+  role_name: panto-micro-monitoring-qa-us-east-1-lambda-role
+  role_arn: arn:aws:iam::496491179578:role/panto-micro-monitoring-qa-us-east-1-lambda-role
   runtime: python3.6
   cloudwatch_log_level: DEBUG
   events:
     - function: BatchPredictionCreator.create_batch_prediction
-      expression: rate(30 minutes)
+      expression: rate(1 minute)
   vpc_config:
     SubnetIds:
       - subnet-b40f7ffc
       - subnet-9a11a1c0
     SecurityGroupIds:
-      - sg-3055aa46
-      - sg-f47de187
+      - sg-70450c06
       - sg-22430a54
+      - sg-ed49009b
+      - sg-34a99e47
   aws_environment_variables:
     db_name: panto
     db_host: pantoapp-db-qa.ctwppe9uq1vi.us-east-1.rds.amazonaws.com
+    # db_password: Set remotely in the AWS and encrypted through AWS console
     db_user: panto
-    ec2_id: i-09896cf96852c2c10
+    # db_password: Set remotely in the AWS and encrypted
   tags:
     Product: panto

@@ -23,6 +23,7 @@ class demoFunction():
         # f = open(filename, "w+")
         alldata = {}
         index = 0
+        columnnames = 'Metrics-Timestamp,'
         # commandLine = 'aws cloudwatch get-metric-statistics --namespace CWAgent --metric-name disk_used_percent --dimensions --dimensions Name=InstanceId,Value=i-028ddedc7959823db Name=path,Value=/ Name=device,Value=nvme0n1p1 Name=fstype,Value=ext4 --statistics Maximum --start-time ' + startTime + ' --end-time '+endTime+' --period 300 --profile eabprod'
 
         commandLines = [
@@ -74,7 +75,6 @@ class demoFunction():
                 nameparts = fileName.split('-')
                 subnameparts = nameparts[0].split("_")
                 columnprefix = ''
-                columnnames = 'Metrics-Timestamp,'
                 if len(nameparts) > 1:
                     columnprefix = nameparts[len(nameparts) - 1] + '-' + subnameparts[0] + '-' + subnameparts[1] + '-' + \
                                    subnameparts[2] + '-' + subnameparts[3]
@@ -103,7 +103,7 @@ class demoFunction():
                 commandInfo = commandLines[i]
                 commandLine = commandInfo[1] + instanceId + commandInfo[2] + startTime + commandInfo[3] + endTime + commandInfo[4]
                 columnprefix = instanceName + commandInfo[0]
-                print('Now working on %s', columnprefix)
+                print('Now working on ', columnprefix)
                 serviceData = os.popen(commandLine)
                 data = json.load(serviceData)
                 datapoints = data['Datapoints']
