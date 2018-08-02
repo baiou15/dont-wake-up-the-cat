@@ -112,7 +112,7 @@ class demoFunction():
                     if metric_name == 'Velocity-T2':
                         for key, value in alldata.items():
                             accelerateCal = alldata[key].split(',')
-                            alldata[key] = accelerateCal[-2] - accelerateCal[-1]
+                            alldata[key] = alldata[key] + ',' + str(float(accelerateCal[-2]) - float(accelerateCal[-1]))
                             columnnames += 'Acceleration' + ','
                 # f.write(test)
                 # f.close()
