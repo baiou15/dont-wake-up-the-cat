@@ -148,14 +148,18 @@ class demoFunction():
                 alldata[key] = value + (',' * append_count)
             columnnames += columnprefix + ','
             index = index + 1
-        fout = "/Users/baio/dev/projects/dont-wake-up-the-cat/" + instanceName + "Result.csv"
-        fo = open(fout, "w")
-
-        fo.write(columnnames + "\n")
+        # fout = "/Users/baio/dev/projects/dont-wake-up-the-cat/" + instanceName + "Result.csv"
+        # fo = open(fout, "w")
+        #
+        # fo.write(columnnames + "\n")
+        # for k, v in alldata.items():
+        #     fo.write(str(k) + ',' + str(v) + '\n')
+        #
+        # fo.close()
+        outputString = columnnames + "\n"
         for k, v in alldata.items():
-            fo.write(str(k) + ',' + str(v) + '\n')
-
-        fo.close()
+           outputString += (str(k) + ',' + str(v) + '\n')
+        self.pushToS3()
 
 
 test = demoFunction('','')
