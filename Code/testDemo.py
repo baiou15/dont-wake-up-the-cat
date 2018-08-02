@@ -9,7 +9,7 @@ class demoFunction():
         self.status = status
         self.metric_name = metric_name
 
-    def pushToS3(bucket, key, json):
+    def pushToS3(self, bucket, key, json):
         s3 = boto3.client('s3', region_name='us-east-1')
         response = s3.put_object(
             Body=bytes(str(json), encoding="UTF-8"),
