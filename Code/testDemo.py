@@ -151,7 +151,7 @@ class demoFunction():
         fout = "/Users/baio/dev/projects/dont-wake-up-the-cat/" + instanceName + "Result.csv"
         fo = open(fout, "w")
 
-        fo.write(columnnames + "\n");
+        fo.write(columnnames + "\n")
         for k, v in alldata.items():
             fo.write(str(k) + ',' + str(v) + '\n')
 
