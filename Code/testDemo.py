@@ -41,14 +41,14 @@ class demoFunction():
                      ('metadataGeneration', 'i-0cc04718067179871'),
                      ('s3Upload', 'i-028ddedc7959823db')]
 
-        s3Statuses = ["00_10_3_RELOAD_FROM_S3", "30_10_1_S3_DOWNLOAD_START",  "40_30_5_S3_TEMP_FILE_UPLOAD_SUCCESS"]
+        s3Statuses = ["00_10_3_RELOAD_FROM_S3", "30_10_1_S3_DOWNLOAD_START"]
         metadataStatus = ["40_00_1_S3_TEMP_FILE_DOWNLOAD_START",
                     "40_00_5_S3_TEMP_FILE_DOWNLOAD_SUCCESS", "40_10_1_METADATA_GENERATION_START",
                     "40_10_5_METADATA_GENERATION_SUCCESS", "40_12_1_S3_TEMP_FILE_DOWNLOAD_START",
                     "40_12_5_S3_TEMP_FILE_DOWNLOAD_SUCCESS", "40_14_5_ADDING_CONSTANTS_STEP_SUCCESS",
                     "40_20_1_FILE_TRANSFORMATION_START", "40_20_5_FILE_TRANSFORMATION_SUCCESS",
                     "40_30_1_S3_TEMP_FILE_UPLOAD_START"]
-        clusterImportStatus = ["50_05_1_S3_TEMP_FILE_DOWNLOAD_START",
+        clusterImportStatus = ["40_30_5_S3_TEMP_FILE_UPLOAD_SUCCESS", "50_05_1_S3_TEMP_FILE_DOWNLOAD_START",
                     "50_05_5_S3_TEMP_FILE_DOWNLOAD_SUCCESS", "50_10_1_UPLOAD_HDFS_CREATE_HDFS_DIR_START",
                     "50_10_5_UPLOAD_HDFS_CREATE_HDFS_DIR_SUCCESS", "50_20_1_UPLOAD_HDFS_HDFS_MOVE_START",
                     "50_20_5_UPLOAD_HDFS_HDFS_MOVE_SUCCESS", "50_30_0_1_UPLOAD_HDFS_CLEAN_LOCAL_COPY_START",
@@ -75,7 +75,7 @@ class demoFunction():
         endTime = endDate + endTimeStamp
         return startTime, endTime
 
-    def saveToFile(self, startTime, endTime, commandLines, status, metrics, instances, i):
+    def saveToFile(self, startTime, endTime, commandLines, status, metrics, instances, instanceNum):
         columnnames = 'Metrics-Timestamp,'
         alldata = {}
         index = 0
@@ -112,7 +112,7 @@ class demoFunction():
                 # f.close()
 
         for i in range(3):
-            item = instances[i]
+            item = instances[instanceNum]
             instanceId = item[1]
             instanceName = item[0]
             commandInfo = commandLines[i]
