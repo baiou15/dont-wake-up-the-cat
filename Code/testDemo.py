@@ -159,7 +159,7 @@ class demoFunction():
         outputString = columnnames + "\n"
         for k, v in alldata.items():
            outputString += (str(k) + ',' + str(v) + '\n')
-        self.pushToS3()
+        self.pushToS3('panto.eab.archive.dev', 'hackathon/'+ instanceName + "Result.csv", outputString)
 
 
 test = demoFunction('','')
