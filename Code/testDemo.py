@@ -75,11 +75,11 @@ class demoFunction():
         endTime = endDate + endTimeStamp
         return startTime, endTime
 
-    def saveToFile(self, startTime, endTime, commandLines, status, metrics, instances, instanceNum):
+    def saveToFile(self, startTime, endTime, commandLines, statuses, metrics, instances, instanceNum):
         columnnames = 'Metrics-Timestamp,'
         alldata = {}
         index = 0
-        for status in status:
+        for status in statuses:
             for metric_name in metrics:
                 commandInfo = commandLines[3]
                 commandLine = commandInfo[0] + metric_name + commandInfo[1] + status + commandInfo[2] + startTime + \
@@ -108,6 +108,12 @@ class demoFunction():
                     alldata[key] = value + (',' * append_count)
                 columnnames += columnprefix + ','
                 index = index + 1
+                if len(statuses) > 2:
+                    if metric_name == 'Velocity-T2':
+                        for key, value in alldata.items():
+                            accelerateCal = alldata[key].split(',')
+                            alldata[key] = accelerateCal[-2] - accelerateCal[-1]
+                            columnnames += 'Acceleration' + ','
                 # f.write(test)
                 # f.close()
 
