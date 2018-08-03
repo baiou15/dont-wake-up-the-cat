@@ -1,0 +1,7 @@
+Metrics-Timestamp,Backlog-40-00-1-S3,T1-40-00-1-S3,T2-40-00-1-S3,Acceleration,Backlog-40-00-5-S3,T1-40-00-5-S3,T2-40-00-5-S3,Acceleration,Backlog-40-10-1-METADATA,T1-40-10-1-METADATA,T2-40-10-1-METADATA,Acceleration,Backlog-40-10-5-METADATA,T1-40-10-5-METADATA,T2-40-10-5-METADATA,Acceleration,Backlog-40-12-1-S3,T1-40-12-1-S3,T2-40-12-1-S3,Acceleration,Backlog-40-12-5-S3,T1-40-12-5-S3,T2-40-12-5-S3,Acceleration,Backlog-40-14-5-ADDING,T1-40-14-5-ADDING,T2-40-14-5-ADDING,Acceleration,Backlog-40-20-1-FILE,T1-40-20-1-FILE,T2-40-20-1-FILE,Acceleration,Acceleration,Backlog-40-20-5-FILE,T1-40-20-5-FILE,T2-40-20-5-FILE,Acceleration,Acceleration,Backlog-40-30-1-S3,T1-40-30-1-S3,T2-40-30-1-S3,Acceleration,Acceleration,metadataGenerationCPU,metadataGenerationDisk,metadataGenerationMemory,
+2018-08-02T15:02:00Z,1.0,6.0,,6.0,,,0,,,0,,,0,,,0,,,0,,,0,,,0,,,0,,,0,5.0,25.19164244889976,18.435351648257253
+2018-08-02T14:42:00Z,,,,,,,,,,,,,,,,,,,,,,1.0,6.0,,6.0,,,0,,,0,8.0,25.321485599992776,18.48534693630095
+2018-08-02T14:57:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.0,24.825308171148784,18.44263432841302
+2018-08-02T14:47:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,24.825035653141573,18.451634974143996
+2018-08-02T14:52:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,24.82528481246245,18.44853516669308
+2018-08-02T14:37:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11.0,24.84326321470962,18.47815139932653
